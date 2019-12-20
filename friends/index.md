@@ -1,4 +1,4 @@
----
+﻿---
 layout: links
 title: 朋友们
 links:
@@ -6,7 +6,7 @@ links:
     icon: fab fa-connectdevelop
     items: 
     - name: SheKong  PYH
-      avatar: https://infi.wang/ContentStorage/pic/SheKong.png
+      avatar: https://infi.wang/ContentStorage/pic/Avatar/SheKong.png
       url: https://www.luogu.com.cn/blog/SheKong/
       backgroundColor: '#00BFFF'
       textColor: '#FFF'
@@ -14,7 +14,7 @@ links:
       - YNOIer
       - YNSDFZ
     - name: 泠妄  SQ
-      avatar: https://infi.wang/ContentStorage/pic/sq.png
+      avatar: https://infi.wang/ContentStorage/pic/Avatar/sq.png
       url: https://wychlw.club
       backgroundColor: '#9C27B0'
       textColor: '#FFF'
@@ -22,7 +22,7 @@ links:
       - YNOIer
       - YNSDFZ
     - name: 范滇东  FLW
-      avatar: https://infi.wang/ContentStorage/pic/flwfdd.jpg
+      avatar: https://infi.wang/ContentStorage/pic/Avatar/flwfdd.jpg
       url: https://www.cnblogs.com/flwfdd
       backgroundColor: '#2BAF2B'
       textColor: '#FFF'
@@ -42,7 +42,7 @@ links:
     icon: far fa-grin-tongue-wink
     items: 
     - name: 彩虹泡菜君
-      avatar: https://infi.wang/ContentStorage/pic/Ruikoto.png
+      avatar: https://ruikoto.pub/wp-content/uploads/2019/03/%E8%80%81%E5%A9%86A_Head.png
       url: https://ruikoto.pub
       backgroundColor: '#E51C23'
       textColor: '#FFF'
