@@ -1,10 +1,8 @@
 name: Update Hexo /source
 
 on: 
-  push:
-    branches: 
-      - master
-#   repository_dispatch: 
+  repository_dispatch: 
+    type: [updatedPosts]
   
 
 jobs:
