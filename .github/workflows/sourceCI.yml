@@ -19,7 +19,12 @@ jobs:
     - name: Set up timestamp module
       uses: gerred/actions/current-time@master
       id: currentTime
-        
+    
+    - name: Setup git env
+      run: |
+        git config --global user.name '${{ matrix.gitUsername }}'
+        git config --global user.email '${{ matrix.gitUserEmail }}'
+    
     - name: Checkout Base
       uses: actions/checkout@v2
       with: 
@@ -27,7 +32,7 @@ jobs:
     
     - name: Checkout Submodules
       run: |
-        git submodule update --init --recursive --force
+        git submodule update --init --remote
 
     - name: Update git repo content
       run: |
