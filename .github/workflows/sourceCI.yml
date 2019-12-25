@@ -1,4 +1,4 @@
-name: Update Hexo /source
+name: /source CI
 
 on: 
   repository_dispatch: 
