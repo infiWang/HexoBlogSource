@@ -6,7 +6,7 @@ links:
     icon: fab fa-connectdevelop
     items: 
     - name: SheKong  PYH
-      avatar: https://infi.wang/ContentStorage/pic/avatar/SheKong.png
+      avatar: https://cdn.infi.wang/pic/avatar/SheKong.png
       url: https://www.luogu.com.cn/blog/SheKong/
       backgroundColor: '#00BFFF'
       textColor: '#FFF'
