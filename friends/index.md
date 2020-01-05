@@ -6,7 +6,7 @@ links:
     icon: fab fa-connectdevelop
     items: 
     - name: SheKong  PYH
-      avatar: https://infi.wang/ContentStorage/pic/Avatar/SheKong.png
+      avatar: https://infi.wang/ContentStorage/pic/avatar/SheKong.png
       url: https://www.luogu.com.cn/blog/SheKong/
       backgroundColor: '#00BFFF'
       textColor: '#FFF'
@@ -14,7 +14,7 @@ links:
       - YNOIer
       - YNSDFZ
     - name: 泠妄  SQ
-      avatar: https://infi.wang/ContentStorage/pic/Avatar/sq.png
+      avatar: https://cdn.infi.wang/pic/avatar/sq.png
       url: https://wychlw.club
       backgroundColor: '#9C27B0'
       textColor: '#FFF'
@@ -22,7 +22,7 @@ links:
       - YNOIer
       - YNSDFZ
     - name: 范滇东  FLW
-      avatar: https://infi.wang/ContentStorage/pic/Avatar/flwfdd.jpg
+      avatar: https://cdn.infi.wang/pic/avatar/flwfdd.jpg
       url: https://www.cnblogs.com/flwfdd
       backgroundColor: '#2BAF2B'
       textColor: '#FFF'
@@ -72,8 +72,8 @@ links:
                 case true:
                 {
                     请前往 "https://github.com/infiWang/ContentStorage"
-                    fork项目后在pic文件夹内的Avatar文件夹下添加头像文件并commit, 并向我的原repo提交Pull Request. 我将在检查后Merge回源repo
-                    如果您提交的文件是example.jpg, 文件将会在"https://infi.wang/ContentStroage/pic/Avatar/example.jpg"处可用. 
+                    fork项目后在pic文件夹内的avatar文件夹下添加头像文件并commit, 并向我的原repo提交Pull Request. 我将在检查后Merge回源repo
+                    如果您提交的文件是example.jpg, 文件将会在"https://cdn.infi.wang/pic/Avatar/example.jpg"处可用. 
                     请不要提交example.jpg文件, 文件名请最好与您的名称有关. 为了保证隐私, 推荐使用外号/网名/拼音首字母(不太推荐, OIer除外). 
                     记住(Ctrl+C)头像应在的链接, 我们继续. 
                     break;
