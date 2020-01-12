@@ -21,7 +21,13 @@ jobs:
       id: currentTime
     
     - name: Setup git env
+      env:
+        ACTION_KEY: ${{ secrets.actionCiSelfupdateKey }}
       run: |
+        mkdir -p ~/.ssh/
+        echo "$ACTION_KEY" >> ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
         git config --global user.name '${{ matrix.gitUsername }}'
         git config --global user.email '${{ matrix.gitUserEmail }}'
     
