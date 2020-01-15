@@ -15,6 +15,6 @@ jobs:
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v1.0.0
       with: 
-        token: ${{ secrets.actionHexoCiGithubRepoDispatchToken }}
+        token: ${{ secrets.tokenGithubRepo }}
         repository: infiWang/HexoBlogFiles
         event-type: updatedSource
