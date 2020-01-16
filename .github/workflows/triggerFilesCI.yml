@@ -9,6 +9,10 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        tokenGithub: ${{ secrets.tokenGithubRepo }}
 
     steps:
     - name: Repository Dispatch
