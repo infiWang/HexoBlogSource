@@ -12,7 +12,7 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        tokenGithub: [tokenGithubRepo]
+        tokenGithub: ${{ secret.tokenGithubRepo }}
         gitUsername: [infiWang]
         gitUserEmail: [root@infi.wang]
     
@@ -34,7 +34,7 @@ jobs:
     - name: Checkout Submodules
       run: |
         git submodule update --init --remote
-        
+
     - name: Update and commit content
       run: |
         git add -A
