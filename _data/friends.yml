@@ -1,4 +1,4 @@
-- group: OIer
+- group: 
   items: 
   - title: WilliamGong
     avatar: https://williamgong.github.io/images/avatar.png
@@ -9,8 +9,8 @@
     url: https://www.luogu.com.cn/blog/SheKong/
     description: "SheKong AK NOI"
   - title: 泠妄
-    avatar: https://www.wcysite.cn/wp-content/uploads/2020/09/avatar.jpg
-    url: https://www.wcysite.cn
+    avatar: https://cdn.jsdelivr.net/gh/wychlw/homepage@main/assets/img/avatar.png
+    url: https://www.wcysite.com
     description: "可爱！"
   - title: 范滇东
     avatar: https://cdn.infi.wang/pic/avatar/flwfdd.jpg
@@ -19,9 +19,7 @@
   - title: yussgrw
     avatar:
     url: https://blog.yussgrw.cn
-    description: ""
-- group: 沙雕网友
-  items: 
+    description: "" 
   - title: 彩虹泡菜君
     avatar: https://cdn.infi.wang/pic/avatar/Ruikoto.png
     url: https://ruikoto.pub
