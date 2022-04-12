@@ -4,10 +4,14 @@
     avatar: https://williamgong.github.io/images/avatar.png
     url: https://williamgong.github.io/
     description: ""
+  - title: JzJiang
+    avatar: 
+    url: 
+    description: ""
   - title: SheKong
     avatar: https://cdn.infi.wang/pic/avatar/SheKong.png
     url: https://www.luogu.com.cn/blog/SheKong/
-    description: "SheKong AK NOI"
+    description: "qwq"
   - title: 泠妄
     avatar: https://cdn.jsdelivr.net/gh/wychlw/homepage@main/assets/img/avatar.png
     url: https://www.wcysite.com
@@ -15,12 +19,20 @@
   - title: 范滇东
     avatar: https://cdn.infi.wang/pic/avatar/flwfdd.jpg
     url: http://blog.flwfdd.xyz/
-    description: "会好多东西"
-  - title: yussgrw
-    avatar:
-    url: https://blog.yussgrw.cn
-    description: "" 
+    description: "范苣！"
+  - title: NekoDaemon
+    avatar: https://nekodaemon.com/images/avatar.png
+    url: https://nekodaemon.com/
+    description: "super-duper system go brrrrrr" 
+  - title: sparkcyf
+    avatar: https://nekodaemon.com/
+    url: https://sparktour.me/avatar.jpeg
+    description: "为了拯救濒临倒闭的 CRA，……" 
+  - title: undefined
+    avatar: http://example.com
+    url: 
+    description: "See you in the REDACTED back from plateu"
   - title: 彩虹泡菜君
     avatar: https://cdn.infi.wang/pic/avatar/Ruikoto.png
     url: https://ruikoto.pub
-    description: "ATSiege今天更新了吗？"
+    description: "ATSiege 今天更新了吗？"
