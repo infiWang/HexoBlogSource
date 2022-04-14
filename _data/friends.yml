@@ -5,8 +5,8 @@
     url: https://williamgong.github.io/
     description: ""
   - title: JzJiang
-    avatar: 
-    url: 
+    avatar: http://example.com
+    url: http://example.com
     description: ""
   - title: SheKong
     avatar: https://cdn.infi.wang/pic/avatar/SheKong.png
@@ -25,12 +25,12 @@
     url: https://nekodaemon.com/
     description: "super-duper system go brrrrrr" 
   - title: sparkcyf
-    avatar: https://nekodaemon.com/
-    url: https://sparktour.me/avatar.jpeg
+    avatar: https://nekodaemon.com/avatar.jpeg
+    url: https://sparktour.me/
     description: "为了拯救濒临倒闭的 CRA，……" 
   - title: undefined
     avatar: http://example.com
-    url: 
+    url: http://example.com
     description: "See you in the REDACTED back from plateu"
   - title: 彩虹泡菜君
     avatar: https://cdn.infi.wang/pic/avatar/Ruikoto.png
